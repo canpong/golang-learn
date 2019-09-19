@@ -2,3 +2,8 @@ develop barnch
 develop branch 分支修改
 
 2
+
+
+function b(){
+  int a = 1;
+}
