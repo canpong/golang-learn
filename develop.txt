@@ -19,3 +19,8 @@ function a (){
 function b(){
   int a = 1;
 }
+
+function c(){
+    float f = 0.9;
+
+}
