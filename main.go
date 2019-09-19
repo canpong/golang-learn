@@ -17,7 +17,7 @@ type myStruct struct {
 }
 
 func main() {
-
+	fmt.Println("test-----------")
 }
 
 func init() {
