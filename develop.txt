@@ -13,3 +13,8 @@ function a (){
     double c = 10.32;
 
 }
+
+function c(){
+    float f = 0.9;
+
+}
