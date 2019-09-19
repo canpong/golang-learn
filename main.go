@@ -17,7 +17,8 @@ type myStruct struct {
 }
 
 func main() {
-
+	var bb string
+	_ = bb
 }
 
 func init() {
