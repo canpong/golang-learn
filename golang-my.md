@@ -1,17 +1,5 @@
 ## Helo world
-欢迎来到 [小天才的GitHub主页] (https://github.com/mhz2180572509 "小天才的GitHub主页")
+欢迎来到 [canpong的GitHub go-learn主页] (https://github.com/canpong/golang-learn "canpong的的GitHub go-learn主页")
 
-我展示的是一级标题
+CANPON go-learn
 =================
-
-我展示的是二级标题
------------------
-
-# Hello World! 
-
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
